@@ -1,4 +1,7 @@
 ### Hi there 👋
+I am also on [gitlab](gitlab.com/minecraftchest1).
+
+Follow my blog at [wordpress](https://minecraftchest1.wordpress.com)
 
 <!--
 **minecraftchest1/Minecraftchest1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
