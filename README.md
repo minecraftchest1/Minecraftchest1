@@ -8,6 +8,7 @@ I can be reached at:
  - [@minecraftchest1](https://t.me/Minecraftchest1) on telegram.
  - [@minecraftchest1@social.opendesktop.org](https://social.opendesktop.org/@minecraftchest1) on the Fedriverse.
  - [@minecraftchest1:matrix.org](https://matrix.to/#/@minecraftchest1:matrix.org) on matrix
+ - [Github Discussions](https://github.com/minecraftchest1/Minecraftchest1/discussions) on my repro.
 <!--
 **minecraftchest1/Minecraftchest1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
