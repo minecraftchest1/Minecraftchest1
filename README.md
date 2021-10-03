@@ -3,6 +3,11 @@ I am also on [gitlab](gitlab.com/minecraftchest1).
 
 Follow my blog at [wordpress](https://minecraftchest1.wordpress.com)
 
+I can be reached at:
+ - [minecraftchest1+github@outlook.com](mailto:minecraftchest1+github@outlook.com).
+ - [@minecraftchest1](https://t.me/Minecraftchest1) on telegram.
+ - [@minecraftchest1@social.opendesktop.org](https://social.opendesktop.org/@minecraftchest1) on the Fedriverse.
+ - [@minecraftchest1:matrix.org](https://matrix.to/#/@minecraftchest1:matrix.org) on matrix
 <!--
 **minecraftchest1/Minecraftchest1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
