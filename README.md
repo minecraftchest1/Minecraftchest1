@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am also on [gitlab](gitlab.com/minecraftchest1).
+I am also on [gitlab](https://gitlab.com/minecraftchest1).
 
 Follow my blog at [wordpress](https://minecraftchest1.wordpress.com)
 
