@@ -5,7 +5,6 @@ Follow my blog at [wordpress](https://minecraftchest1.wordpress.com)
 
 I can be reached at:
  - [minecraftchest1+github@outlook.com](mailto:minecraftchest1+github@outlook.com).
- - [@minecraftchest1](https://t.me/Minecraftchest1) on telegram.
  - [@minecraftchest1@social.opendesktop.org](https://social.opendesktop.org/@minecraftchest1) on the Fedriverse.
  - [@minecraftchest1:matrix.org](https://matrix.to/#/@minecraftchest1:matrix.org) on matrix
  - [Github Discussions](https://github.com/minecraftchest1/Minecraftchest1/discussions) on my repro.
