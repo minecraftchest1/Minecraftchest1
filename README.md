@@ -1,12 +1,10 @@
 ### Hi there 👋
 I am also on [gitlab](https://gitlab.com/minecraftchest1).
 
-Follow my blog at [wordpress](https://minecraftchest1.wordpress.com)
-
 I can be reached at:
  - [minecraftchest1+github@outlook.com](mailto:minecraftchest1+github@outlook.com).
- - [@minecraftchest1@social.opendesktop.org](https://social.opendesktop.org/@minecraftchest1) on the Fedriverse.
- - [@minecraftchest1:matrix.org](https://matrix.to/#/@minecraftchest1:matrix.org) on matrix
+ - [@minecraftchest1@firefish.minecraftchest1.us](https://firefish.minecraftchest1.us/@minecraftchest1) on the Fedriverse.
+ - [@minecraftchest1:arsrobotics.org](https://matrix.to/#/@minecraftchest1:arsrobotics.org) on matrix
  - [Github Discussions](https://github.com/minecraftchest1/Minecraftchest1/discussions) on my repro.
 <!--
 **minecraftchest1/Minecraftchest1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
